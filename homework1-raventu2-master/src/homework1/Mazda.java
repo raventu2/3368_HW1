@@ -13,5 +13,15 @@ public class Mazda extends Vehicle implements StreetCarFunctionalities
         return "Most economical car in my garage.";
     }
 
+    @Override
+    public void start_engine() {
+
+    }
+
+    @Override
+    public void drive() {
+
+    }
+
     //interface
 }
