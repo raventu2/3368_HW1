@@ -13,4 +13,19 @@ public class Porsche extends Vehicle implements RaceCarFunctionalities
     }
 
     //interface
+
+    @Override
+    public void warmup_engine() {
+
+    }
+
+    @Override
+    public void move_to_start() {
+
+    }
+
+    @Override
+    public void race() {
+
+    }
 }
